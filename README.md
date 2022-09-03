@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Python & JavaScript**
 
-<--! 👯 I’m looking to collaborate on **Intel as a software developer**-->
+// 👯 I’m looking to collaborate on **Intel as a software developer**
 
 - 🤝 I’m looking for help with **Python, JavaScript, GitHub**
 
